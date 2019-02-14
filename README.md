@@ -15,7 +15,7 @@
 ```
 3、执行：
     1) 打开entryPoint.py内相应注释，运行 entryPoint.py 即可
-    2) cd 至爬虫项目根目录下执行 （ scrapy crawl 爬虫名称 ）
+    2) cd 至爬虫项目根目录下执行 （ scrapy crawl 爬虫名称(如：PiPiXia、Baisi、QiuShi) ）
 ```
 
 ```
